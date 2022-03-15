@@ -3,8 +3,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - scikit-learn
   - matplotlib
   - numpy
   - pandas
-  - pdfplumber
+  - pytesseract
+  - statistics
+  - opencv-python
